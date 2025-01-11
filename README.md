@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 1. **Запустите скрипт**:
    ```bash
-   python token_checker.py
+   python main.py
    ```
 
 2. **Опции меню**:
