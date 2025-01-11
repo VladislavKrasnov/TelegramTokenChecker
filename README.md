@@ -26,7 +26,7 @@ pip install -r requirements.txt
 1. **Клонируйте репозиторий**:
    ```bash
    git clone https://github.com/VladislavKrasnov/TelegramTokenChecker
-   cd TelegramTokenChecker-main
+   cd TelegramTokenChecker
    ```
 
 2. **Установите необходимые библиотеки**:
